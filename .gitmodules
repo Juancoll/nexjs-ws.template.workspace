@@ -1,12 +1,12 @@
 [submodule "nexjs-ws.template.client.cs.app"]
 	path = nexjs-ws.template.client.cs.app
 	url = https://github.com/Juancoll/nexjs-ws.template.client.cs.app
-[submodule "nexjs-ws.template.client.web.ts.vuetify"]
-	path = nexjs-ws.template.client.web.ts.vuetify
-	url = https://github.com/Juancoll/nexjs-ws.template.client.ts.web.vuetify.git
 [submodule "nexjs-ws.template.client.ts.web.nuxt"]
 	path = nexjs-ws.template.client.ts.web.nuxt
 	url = https://github.com/Juancoll/nexjs-ws.template.client.ts.web.nuxt.git
 [submodule "nexjs-ws.template.server.ts.node"]
 	path = nexjs-ws.template.server.ts.node
 	url = https://github.com/Juancoll/nexjs-ws.template.server.ts.node.git
+[submodule "nexjs-ws.template.client.ts.web.vuetify"]
+	path = nexjs-ws.template.client.ts.web.vuetify
+	url = https://github.com/Juancoll/nexjs-ws.template.client.ts.web.vuetify.git
