@@ -10,3 +10,15 @@
 [submodule "nexjs-ws.template.client.ts.web.vuetify"]
 	path = nexjs-ws.template.client.ts.web.vuetify
 	url = https://github.com/Juancoll/nexjs-ws.template.client.ts.web.vuetify.git
+[submodule "nexjs-ws.template.client.cs.ws-lib"]
+	path = nexjs-ws.template.client.cs.ws-lib
+	url = https://github.com/Juancoll/nexjs-ws.template.client.cs.ws-lib.git
+[submodule "nexjs-ws.template.client.cs.http-lib"]
+	path = nexjs-ws.template.client.cs.http-lib
+	url = https://github.com/Juancoll/nexjs-ws.template.client.cs.http-lib.git
+[submodule "nexjs-ws.template.client.ts.http-lib"]
+	path = nexjs-ws.template.client.ts.http-lib
+	url = https://github.com/Juancoll/nexjs-ws.template.client.ts.http-lib.git
+[submodule "nexjs-ws.template.client.ts.ws-lib"]
+	path = nexjs-ws.template.client.ts.ws-lib
+	url = https://github.com/Juancoll/nexjs-ws.template.client.ts.ws-lib.git
