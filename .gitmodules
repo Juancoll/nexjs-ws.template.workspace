@@ -1,0 +1,11 @@
+[submodule "nexjs.ws.template.client.csapp"]
+	path = nexjs.ws.template.client.csapp
+	url = https://github.com/Juancoll/nexjs.ws.template.client.csapp.git
+
+[submodule "nexjs.ws.template.client.web"]
+	path = nexjs.ws.template.client.web
+	url = https://github.com/Juancoll/nexjs.ws.template.client.web.git
+
+[submodule "nexjs.ws.template.server.node"]
+	path = nexjs.ws.template.server.node
+	url = https://github.com/Juancoll/nexjs.ws.template.server.node.git
